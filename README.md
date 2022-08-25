@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dbq0mc8nd3nkj2y0?svg=true)](https://ci.appveyor.com/project/bataltsevV/aqa-code-fymsu)
